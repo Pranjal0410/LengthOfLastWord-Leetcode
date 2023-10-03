@@ -1,0 +1,2 @@
+# LengthOfLastWord-Leetcode
+Python
